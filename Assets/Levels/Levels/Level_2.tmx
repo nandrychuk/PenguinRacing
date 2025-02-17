@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="6">
+ <tileset firstgid="1" name="Ground" tilewidth="32" tileheight="32" tilecount="128" columns="8">
+  <image source="../../Art/Kenney/Platformer Pack Redux (360 assets)/Spritesheets/spritesheet_ground_32px.png" width="256" height="512"/>
+ </tileset>
+ <layer id="1" name="Foreground" width="16" height="16">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,
+53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,
+53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,
+53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,
+53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,
+53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53
+</data>
+ </layer>
+ <group id="4" name="Objects" visible="0">
+  <objectgroup id="2" name="ground_Collision">
+   <object id="1" x="0" y="320" width="512" height="192"/>
+  </objectgroup>
+  <objectgroup id="3" name="Markers">
+   <object id="2" name="Start" x="0" y="320" width="32" height="32"/>
+   <object id="4" name="Size" x="512" y="512" width="32" height="32"/>
+   <object id="5" name="End" x="480" y="320" width="32" height="32"/>
+  </objectgroup>
+ </group>
+</map>

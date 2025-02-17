@@ -1,0 +1,429 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+<<<<<<< Updated upstream
+    "activeFile": "Levels/Level_7.tmx",
+=======
+    "activeFile": "",
+>>>>>>> Stashed changes
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+        "Level_1",
+        "Levels",
+        ".",
+        "Level_2"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#Ground": {
+            "scaleInDock": 1
+        },
+        "#Ice": {
+            "scaleInDock": 1
+        },
+        "Ground.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Ice.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level_1/level_1.tmx": {
+            "expandedGroupLayers": [
+                12,
+                10
+            ],
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1056.6666666666665,
+                "y": 543.3333333333333
+            }
+        },
+        "Level_1/level_1.tmx#Background": {
+            "dynamicWrapping": true
+        },
+        "Level_1/level_1.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "Level_1/level_1.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "Level_1/level_1.tmx#background_large": {
+            "scaleInDock": 1
+        },
+        "Level_2.tmx": {
+            "expandedGroupLayers": [
+                4
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 321,
+                "y": 335.5
+            }
+        },
+        "Level_2/level_2.tmx": {
+            "expandedGroupLayers": [
+                10,
+                12
+            ],
+            "expandedObjectLayers": [
+                14
+            ],
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1056,
+                "y": 543.3333333333334
+            }
+        },
+        "Level_2/level_2.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "Level_2/level_2.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "Levels/Finish.tmx": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "expandedObjectLayers": [
+                5,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 214,
+                "y": 303.6666666666667
+            }
+        },
+        "Levels/Finish.tmx#Ground": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Levels/Finish.tmx#Ice": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Levels/Ground.tsx": {
+            "scaleInDock": 1
+        },
+        "Levels/Level_1.tmx": {
+            "expandedGroupLayers": [
+                7,
+                4
+            ],
+            "expandedObjectLayers": [
+                7,
+                6,
+                5
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 256,
+                "y": 512.3333333333333
+            }
+        },
+        "Levels/Level_1.tmx#Ground": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Levels/Level_1.tmx#Ice": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Levels/Level_1.tmx#ice_flipped": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Levels/Level_2.tmx": {
+            "expandedGroupLayers": [
+                4,
+                11
+            ],
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.997314453125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 255.68665850673193,
+                "y": 256.18800489596083
+            }
+        },
+        "Levels/Level_2.tmx#Ground": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Levels/Level_2.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "Levels/Level_3.tmx": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "expandedObjectLayers": [
+                4,
+                3,
+                5
+            ],
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 232,
+                "y": -99
+            }
+        },
+        "Levels/Level_3.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "Levels/Level_4.tmx": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "expandedObjectLayers": [
+                4,
+                3,
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 255,
+                "y": 511.5
+            }
+        },
+        "Levels/Level_4.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "Levels/Level_5.tmx": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 128,
+                "y": 512.3333333333333
+            }
+        },
+        "Levels/Level_5.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "Levels/Level_6.tmx": {
+            "expandedGroupLayers": [
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 367,
+                "y": 935.5
+            }
+        },
+        "Levels/Level_6.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "Levels/Level_7.tmx": {
+            "expandedGroupLayers": [
+                4
+            ],
+<<<<<<< Updated upstream
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 492.6666666666666,
+                "y": 287.33333333333326
+=======
+            "scale": 0.997314453125,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 623.6749082007344,
+                "y": 175.972582619339
+>>>>>>> Stashed changes
+            }
+        },
+        "Levels/Level_7.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "Levels/Level_7.tmx#Ice": {
+            "scaleInDock": 1
+        },
+<<<<<<< Updated upstream
+=======
+        "Levels/Level_8.tmx": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 368,
+                "y": 121.5
+            }
+        },
+        "Levels/Level_8.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "Levels/Level_8.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "Levels/Level_9.tmx": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 384,
+                "y": 1100.5
+            }
+        },
+        "Levels/Level_9.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "Levels/Level_9.tmx#Ice": {
+            "scaleInDock": 1
+        },
+>>>>>>> Stashed changes
+        "Levels/Start.tmx": {
+            "scale": 1.8888671874999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 255.97352910764147,
+                "y": 255.97352910764144
+            }
+        },
+        "Levels/Start.tmx#Ground": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Levels/Start.tmx#Ice": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Levels/start.tmx": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 261.33333333333326,
+                "y": 332.33333333333326
+            }
+        },
+        "Levels/start.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "Levels/start.tmx#Ice": {
+            "scaleInDock": 1
+        },
+        "Levels/wall.tmx": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 176,
+                "y": 130.5
+            }
+        },
+        "Levels/wall.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "StartWall/startWall.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 242,
+                "y": 189.5
+            }
+        },
+        "StartWall/startWall.tmx#ground": {
+            "scaleInDock": 1
+        },
+        "background_large.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ice_flipped.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "underLevelStone.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 16,
+                "y": 512.5
+            }
+        },
+        "underLevelStone.tmx#ground": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/nicka/Documents/GitHub/Misc-Personal-Coding/Random/Penguin-Racing/Assets/Levels/Levels",
+    "last.externalTilesetPath": "C:/Users/nicka/Documents/GitHub/Misc-Personal-Coding/Random/Penguin-Racing/Assets/Levels",
+    "last.imagePath": "C:/Users/nicka/Documents/GitHub/Misc-Personal-Coding/Random/Penguin-Racing/Assets/Kenney/kenney_platformer-art-winter",
+    "map.height": 16,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 32,
+    "openFiles": [
+<<<<<<< Updated upstream
+        "Levels/Level_7.tmx"
+=======
+>>>>>>> Stashed changes
+    ],
+    "project": "penguinRacing.tiled-project",
+    "recentFiles": [
+        "Levels/Level_7.tmx",
+<<<<<<< Updated upstream
+=======
+        "Levels/Level_8.tmx",
+        "Levels/Level_9.tmx",
+        "Levels/Level_3.tmx",
+        "Levels/Level_4.tmx",
+>>>>>>> Stashed changes
+        "Levels/Level_6.tmx",
+        "Levels/Level_5.tmx",
+        "Levels/Level_1.tmx",
+        "Levels/Level_2.tmx",
+        "underLevelStone.tmx",
+        "Ground.tsx",
+<<<<<<< Updated upstream
+        "Ice.tsx",
+        "Levels/Start.tmx",
+        "Levels/Finish.tmx"
+=======
+        "Ice.tsx"
+>>>>>>> Stashed changes
+    ],
+    "resizeMap.removeObjects": false,
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}

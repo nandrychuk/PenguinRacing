@@ -1,0 +1,4 @@
+Anim8: https://github.com/kikito/anim8.git
+HUMP: https://github.com/vrld/hump.git
+STI: https://github.com/karai17/Simple-Tiled-Implementation.git
+WINDFIELD: https://github.com/a327ex/windfield.git
